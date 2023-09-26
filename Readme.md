@@ -4,5 +4,6 @@ For more details about the model : [click here](https://huggingface.co/serge-wil
 ## How to run?
 To run this application, follow these following steps:
 *Make sure to be in the cloned repo folder*
-- 1. ```pip install -r requirements.txt```
-- 2. ```python demo.py```
+- 1. ```Create a virtual environment and activate it```
+- 2. ```pip install -r requirements.txt```
+- 3. ```python demo.py```
